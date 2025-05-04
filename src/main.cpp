@@ -13,7 +13,7 @@ Servo myservo;  // create servo object to control a servo
 
 #define potpin  0  // analog pin used to connect the potentiometer
 
-//déclaration des variables
+//declaration des variables
 int val;    // variable to read the value from the analog pin
 
 void setup() {
